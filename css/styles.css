@@ -15,7 +15,7 @@ ul.social-icons {
 }
 ul.social-network li {
   display: inline;
-  margin: 0 5px;
+  margin: 0 6px;
 }
 
 
@@ -48,13 +48,13 @@ ul.social-network li {
   -webkit-border-radius: 50%;
   border-radius: 50%;
   text-align: center;
-  width: 80px;
-  height: 80px;
-  font-size: 50px;
+  width: 60px;
+  height: 60px;
+  font-size: 38px;
 }
 .social-circle li i {
   margin: 0;
-  line-height: 80px;
+  line-height: 60px;
   text-align: center;
 }
 .social-circle li a:hover i, .triggeredHover {
